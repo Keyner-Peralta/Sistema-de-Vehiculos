@@ -1,0 +1,14 @@
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\bin\Debug\net8.0\Sistema_de_Vehiculos.exe
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\bin\Debug\net8.0\Sistema_de_Vehiculos.deps.json
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\bin\Debug\net8.0\Sistema_de_Vehiculos.runtimeconfig.json
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\bin\Debug\net8.0\Sistema_de_Vehiculos.dll
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\bin\Debug\net8.0\Sistema_de_Vehiculos.pdb
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\obj\Debug\net8.0\Sistema_de_Vehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\obj\Debug\net8.0\Sistema_de_Vehiculos.AssemblyInfoInputs.cache
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\obj\Debug\net8.0\Sistema_de_Vehiculos.AssemblyInfo.cs
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\obj\Debug\net8.0\Sistema_de_Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\obj\Debug\net8.0\Sistema_de_Vehiculos.dll
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\obj\Debug\net8.0\refint\Sistema_de_Vehiculos.dll
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\obj\Debug\net8.0\Sistema_de_Vehiculos.pdb
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\obj\Debug\net8.0\Sistema_de_Vehiculos.genruntimeconfig.cache
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Sistema_de_Vehiculos\Sistema_de_Vehiculos\obj\Debug\net8.0\ref\Sistema_de_Vehiculos.dll
